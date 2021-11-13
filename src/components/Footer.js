@@ -13,7 +13,12 @@ export default function Footer() {
           <ul>
             <li>Website by ng169.</li>
             <li>Thanks For Visiting</li>
-            <li>Reference: https://www.youtube.com/watch?v=02zO0hZmwnw</li>
+            <li>
+              Reference:{" "}
+              <a href="https://www.youtube.com/watch?v=02zO0hZmwnw">
+                Click Here
+              </a>
+            </li>
           </ul>
           <ul>
             <li>About Us</li>
