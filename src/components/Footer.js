@@ -11,12 +11,9 @@ export default function Footer() {
 
         <Flex>
           <ul>
-            <li>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua
-            </li>
-            <li>+1-543-123-4567</li>
-            <li>example@huddle.com</li>
+            <li>Website by ng169.</li>
+            <li>Thanks For Visiting</li>
+            <li>Reference: https://www.youtube.com/watch?v=02zO0hZmwnw</li>
           </ul>
           <ul>
             <li>About Us</li>
